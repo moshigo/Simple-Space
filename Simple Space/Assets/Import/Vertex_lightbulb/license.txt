@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vertex lightbulb
+* source:	https://sketchfab.com/3d-models/vertex-lightbulb-3886f505abe5419fbb774f6ef2d24717
+* author:	Museum of Engineering and Technology, Krakow (https://sketchfab.com/mitkrakow)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vertex lightbulb" (https://sketchfab.com/3d-models/vertex-lightbulb-3886f505abe5419fbb774f6ef2d24717) by Museum of Engineering and Technology, Krakow (https://sketchfab.com/mitkrakow) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
