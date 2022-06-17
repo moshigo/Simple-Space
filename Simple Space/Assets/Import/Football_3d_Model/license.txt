@@ -1,0 +1,11 @@
+Model Information:
+* title:	Football 3d Model
+* source:	https://sketchfab.com/3d-models/football-3d-model-2a83753d72b847998618d012e08ecc28
+* author:	Saswata Dutta (https://sketchfab.com/saswatadutta10)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Football 3d Model" (https://sketchfab.com/3d-models/football-3d-model-2a83753d72b847998618d012e08ecc28) by Saswata Dutta (https://sketchfab.com/saswatadutta10) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
